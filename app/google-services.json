@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "429303889511",
+    "project_id": "amicodingpari",
+    "storage_bucket": "amicodingpari.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429303889511:android:85142e6ecb3b61dd44dec2",
+        "android_client_info": {
+          "package_name": "com.example.amicodingpari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429303889511-p5lfl8to5h373b9d4sd0o4ans5ms7g3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgpgi5mw9BGmzZzEfYpfeur0CNoX89Buo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429303889511-p5lfl8to5h373b9d4sd0o4ans5ms7g3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
